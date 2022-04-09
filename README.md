@@ -1,4 +1,10 @@
-# ember-example-testing-services
+# ember-example-testing-services [![CI](https://github.com/gnclmorais/ember-example-testing-services/actions/workflows/ci.yml/badge.svg)](https://github.com/gnclmorais/ember-example-testing-services/actions/workflows/ci.yml)
+
+---
+
+Repo demonstrating simple & effective service testing, together with a stripped-down version of GitHub Actions for test running.
+
+---
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
